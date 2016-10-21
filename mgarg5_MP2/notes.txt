@@ -1,0 +1,14 @@
+Notes:
+
+Collaborated with Rikita Hirpara
+
+
+Intro:
+
+MP2 - Flight Simulator:
+
+We wrote a simple flight simulator using WebGL to handle display, with airplane automatically moving forward at a fixed speed.
+The user will control the bank and tilt of the airplane through the arrow keys.
+
+Pressing the left (right) arrow key will make the plane roll to its left (right).
+Pressing the up (down) arrow key will cause the airplane to pitch up (down).
